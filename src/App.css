@@ -1,12 +1,14 @@
 .gp{
     padding-left: 15%;
 }
+.gp2{
+    padding-left: 15%;
+}
 .logo{
-    height:60%;
-    width: 60%;
+    height:67%;
+    width: 67%;
 }
 .container{
-    padding-left:4%;
     color:rgba(232, 230, 227, 0);
     font-weight: bold;
 }
@@ -19,16 +21,214 @@
 .third{
     padding-left:1% !important; 
 }
-.rr{
-    text-align: center;
-}
+
 .crd{
     display:flex ; 
     flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+
 }
 .pt2{
-    color:#568aed;
+    color: rgb(88, 80, 236);
+    padding-right: 7%;
 }
 .heading{
-    font-family: neue;
+    font-weight: bold;
+    font-size:3.3rem;
+    line-height: 120%;
+    padding-bottom: 4%;
+}
+.crd{
+    padding-top:7%;
+    padding-left:40%;
+}
+.txt{
+    color:rgb(107, 114, 128) !important;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 150%;
+    font-size:18px;
+    font-weight: bold;
+}
+.a{
+    padding-bottom:6%;
+}
+.b{
+    padding-bottom: 4%;
+}
+.mrk{
+    color:rgb(88, 80, 236);
+}
+.btrow{
+  display: flex;
+  flex-direction: horizontal;
+}
+.bt1{
+    padding-top:0.8rem ; 
+    margin-right: 4%;
+    width: 25%;
+    white-space:nowrap;
+    padding-bottom: 0.8rem;
+    padding-left:0.2rem ; 
+    padding-right: 0.2rem;
+    background: none rgb(88, 80, 236);
+    border: solid 1px rgb(88, 80, 236);
+
+}
+.bt2{
+    white-space:nowrap;
+    padding-top:0.8rem ; 
+    padding-bottom: 0.8rem;
+    width:25%;
+    padding-left:0.2rem ; 
+    padding-right: 0.2rem;
+    background:whitesmoke;
+    color:rgb(88, 80, 236);
+    border: solid 1px rgb(88, 80, 236);
+}
+.bt1 :hover{
+    background-color:rgb(88, 80, 236) !important;
+}
+.bt2 :hover{
+    background-color:white !important; 
+}
+.vid-div{
+    padding-top:7%;
+}
+.first{
+    padding-bottom:12.5%;
+}
+.second{
+    height:400px ; 
+    background-color:rgb(60, 13, 153);
+    color:white;
+    display: flex;
+    flex-direction: column;
+}
+.s1{
+    padding-top:2%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.6rem;
+    font-weight: bold;
+}
+.s2{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4rem;
+}
+.s3{
+    padding-top:4%;
+    text-align: center;
+    display:flex ; 
+    flex-direction: row;
+    padding-left: 30%;
+    font-family:'Open Sans', sans-serif ;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.cnt2{
+    padding-left:5%;
+}
+.cnt3{
+    padding-left:10%;
+}
+.img-grp{
+    padding-top:9%;
+    display: flex ; 
+    flex-direction: row;
+}
+.img-grp2{
+    padding-top:13%;
+}
+.cnt{
+    display: flex;
+    flex-direction: column;
+}
+.img-1{
+    width:50% ; 
+    height:90% ; 
+    margin-left:15%;
+    margin-right: 10%;
+}
+.img-2{
+    width:50% ; 
+    height:90% ;
+    margin-right: 10%;
+}
+img{
+    border-radius: 10px;
+}
+.a4{
+    font-weight: bold;
+    font-family:monospace ;
+    font-size: 140%;
+    color:rgb(88, 80, 236);
+}
+.ffg{
+    padding-top:3%;
+    padding-left:20%;
+    align-items: flex-start;
+}
+.b4{
+    font-family: roboto,sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.c4{
+    color:rgb(107, 114, 128);
+    font-family:'Open Sans', sans-serif ;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10%;
+}
+.a2{
+    height: 46px;
+    min-width: 46px;
+    left: 0px;
+    top:0px;
+    background-color: rgb(104, 117, 245);
+    border-radius: 5px;
+    color:white ; 
+    text-align: center;
+}
+.ffa{
+    display: flex ; 
+    flex-direction: row;
+    padding-bottom: 5%;
+}
+.a3 .a{
+    color: black;
+    font-size: 1.3rem;
+    font-family: 'Roboto';
+    padding-bottom: 0% !important;
+}
+.a3 .b{
+    color:rgb(107, 114, 128);
+    font-family:'Open Sans', sans-serif ;
+    font-size: 18px;
+    font-weight: bold;
+}
+.ffa .a3{
+    margin-left:2%;
+}
+.sec{
+   padding-top:10%;
+   padding-left:10% ;
+}
+.sec img{
+  width:40%;
+}
+.fifth{
+    padding-left:25% ; 
+}
+.fifth img{
+    height: 589px !important;
+    width: 320px !important;
+    box-shadow: rgb(170 170 170 / 50%) 0px 2px 4px 
+}
+.bb{
+    padding-right: 20%;
+}
+.aa{
+    padding-top:6%;
 }
