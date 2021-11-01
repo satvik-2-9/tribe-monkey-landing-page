@@ -99,6 +99,23 @@ function App() {
           </div>
         </div>
       </div>
+      
+     {/*  <div className="bw">
+        <div className="bwa">
+          
+          <Row>
+            <Col> </Col>
+            <Col> </Col>
+            <Col> </Col>
+            <Col> </Col>
+            <Col> </Col>
+            <Col> </Col>
+          </Row>
+
+        </div>
+        <div className="bwb"></div>
+      </div> */}
+       
       <div className="third">
         <Row> 
           <Col>
@@ -189,7 +206,27 @@ function App() {
           </Col> 
         </Row>
       </div>
-
+      <div className="sixth">
+      <div className="a4">PRICING</div>
+            <div className="b4">Boost Your Growth</div>
+        <div className="c4 kk">Multiply your returns with a platform built for you</div>
+        <div className="content">Running a special promo for first 50 experts. Please reach out to us directly for details</div>
+        <div className="finale">
+          <Row className="wrap">
+            <Col className="fna" sm={8}>
+            Have any questions? Or, would like a product demo?
+            </Col>
+            <Col className="fnb" sm={4}>
+              <Button variant="light" className="final-bt"> Contact Us Today </Button>
+            </Col>
+          </Row>
+        </div>
+        <div className="tg">
+        © BETTER WEALTH TECHNOLOGIES PRIVATE LIMITED. All rights reserved.
+        </div>
+      </div>
+     
+      <div className="seventh"></div>
       
     </div>
   );
