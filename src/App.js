@@ -100,21 +100,70 @@ function App() {
         </div>
       </div>
       
-     {/*  <div className="bw">
+      <div className="bw">
+        <div className="head">Top Experts at Tribe</div>
         <div className="bwa">
           
-          <Row>
-            <Col> </Col>
-            <Col> </Col>
-            <Col> </Col>
-            <Col> </Col>
-            <Col> </Col>
-            <Col> </Col>
+          <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
           </Row>
+          <hr className="brk" />
+          <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
+          </Row>
+          <hr className="brk" />
+          <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
+          </Row>
+          <hr className="brk" />
 
         </div>
-        <div className="bwb"></div>
-      </div> */}
+        <div className="head">Latest Tips at Tribe</div>
+        <div className="bwb">
+        <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
+          </Row>
+          <hr className="brk" />
+          <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
+          </Row>
+          <hr className="brk" />
+          <Row className="rw">
+            <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
+            <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
+            <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
+            <Col><div>31%</div><div className="gg">Hit Ratio</div> </Col>
+            <Col><div>120</div><div className="gg"># of tips</div> </Col>
+            <Col><div className="a2">$</div> </Col>
+          </Row>
+          <hr className="brk" />
+        </div>
+      </div>
        
       <div className="third">
         <Row> 
