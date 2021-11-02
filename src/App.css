@@ -242,13 +242,13 @@ img{
 .content{
     color: rgb(88, 80, 236);
     letter-spacing: 1px;
-    font-size: 1.4rem;
+    font-size: 1rem;
     overflow-wrap: break-word;
     font-weight: bold;
     background-color:#d9edf7;
     white-space: nowrap;
-    margin-left:10% ; 
-    margin-right:10% ; 
+    margin-left:14% ; 
+    margin-right:10%;
 }
 .kk{
     padding-bottom:5% !important ;
