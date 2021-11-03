@@ -64,7 +64,7 @@ function App() {
               
           <Col>
             <div className="vid-div">
-          <ReactPlayer url='https://vimeo.com/608114806'/>
+          <ReactPlayer className="player" url='https://vimeo.com/608114806'/>
           </div>
         </Col>
         </Row>
@@ -104,7 +104,7 @@ function App() {
         <div className="head">Top Experts at Tribe</div>
         <div className="bwa">
           
-          <Row className="rw">
+          <Row className="rw2">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -113,7 +113,7 @@ function App() {
             <Col><div className="a2">$</div> </Col>
           </Row>
           <hr className="brk" />
-          <Row className="rw">
+          <Row className="rw2">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -122,7 +122,7 @@ function App() {
             <Col><div className="a2">$</div> </Col>
           </Row>
           <hr className="brk" />
-          <Row className="rw">
+          <Row className="rw2">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -133,9 +133,9 @@ function App() {
           <hr className="brk" />
 
         </div>
-        <div className="head">Latest Tips at Tribe</div>
+        <div className="head2">Latest Tips at Tribe</div>
         <div className="bwb">
-        <Row className="rw">
+        <Row className="rw2">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -144,7 +144,7 @@ function App() {
             <Col><div className="a2">$</div> </Col>
           </Row>
           <hr className="brk" />
-          <Row className="rw">
+          <Row className="rw2">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -153,7 +153,7 @@ function App() {
             <Col><div className="a2">$</div> </Col>
           </Row>
           <hr className="brk" />
-          <Row className="rw">
+          <Row className="rw2 ">
             <Col> <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1633592643441x699344130915025300%2Fpasra.jpg?w=64&h=64&auto=compress&dpr=1&mask=ellipse&q=75&fit=max" alt="ffimage"></img> </Col>
             <Col> <div>Tradeparadise</div><div className="gg">Member since Oct 8, 2021</div>  </Col>
             <Col><div>₹645515</div><div className="gg">P&L</div> </Col>
@@ -173,7 +173,7 @@ function App() {
         </Row>
       </div>
       <div className="fourth">
-        <Row >
+        <Row className="rr3" >
           <Col className="ffg">
             <div className="a4">BENEFIT</div>
             <div className="b4">Become a World Class Advisor</div>
@@ -216,7 +216,7 @@ function App() {
         </Row>
       </div>
       <div className="fifth">
-        <Row>
+        <Row className="rw4">
           <Col className="aa">
             <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1630950397549x762493107398123400%2F21Untitled.png?w=384&h=&auto=compress&dpr=2&fit=max"></img>
           </Col> 
